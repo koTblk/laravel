@@ -16,7 +16,8 @@
         "mockery/mockery": "~1.0",
         "phpunit/phpunit": "~6.0",
         "symfony/thanks": "^1.0",
-        "barryvdh/laravel-ide-helper" : "dev-master"
+        "barryvdh/laravel-ide-helper" : "dev-master",
+        "encore/laravel-admin" : "dev-master"
     },
     "autoload": {
         "classmap": [
